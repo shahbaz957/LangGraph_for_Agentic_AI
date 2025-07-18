@@ -17,7 +17,7 @@ LangGraph is a powerful framework built on top of LangChain that allows you to c
 🧠 Tech Stack
 Python, LangGraph, LangChain
 
-OpenAI / Anthropic / Hugging Face APIs
+OpenAI / Anthropic / Hugging Face APIs / Groq API
 
 Vector stores: Qdrant, FAISS, ChromaDB
 
